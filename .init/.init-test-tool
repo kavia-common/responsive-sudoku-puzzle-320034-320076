@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/responsive-sudoku-puzzle-320034-320076/sudoku_frontend"
+}
